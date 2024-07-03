@@ -13,7 +13,6 @@ recording = True
 offline = True
 
 bag_playback_rate = 0.5
-
 script_dir = os.path.dirname(os.path.realpath(__file__))
 
 data_dir = os.path.join(script_dir, 'data')
